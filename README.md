@@ -13,7 +13,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on a social project **wortkarte** [repo]([https://github.com/salesp07/salesp07/issues](https://github.com/stoczec/wortkarte)) [website](https://vercel.live/link/wortkarte.vercel.app/?via=team-dashboard-project-entity&p=1)
+ 🔭 I’m currently working on a social project **wortkarte** [repo](https://github.com/stoczec/wortkarte) [website](https://vercel.live/link/wortkarte.vercel.app/?via=team-dashboard-project-entity&p=1)
  
  🌱 I’m currently learning **Next.js, TypeScript, Tailwind**
 
