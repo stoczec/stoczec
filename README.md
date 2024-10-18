@@ -22,6 +22,21 @@
 ⚡ Fun fact **I love diving into programming languages, but when it comes to spoken languages, we just don’t seem to click!**
 
  </div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css,styledcomponents" />
+    <img src="https://skillicons.dev/icons?i=vite,vscode,idea,redux,github,git,figma" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase" />
+    
+    <br>
+</div>
+
+<br/>
+<hr/>
 <!--
 **stoczec/stoczec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
