@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=stczec.stoczec"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=stoczec.stoczec"/>
 
 <!--
 **stoczec/stoczec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
