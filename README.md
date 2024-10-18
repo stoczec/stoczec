@@ -30,9 +30,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css,styledcomponents" />
     <img src="https://skillicons.dev/icons?i=vite,vscode,idea,redux,github,git,figma" />
-    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase" />
-    
-    <br>
+    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase" /><br>
 </div>
 
 <br/>
