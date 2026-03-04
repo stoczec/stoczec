@@ -12,7 +12,7 @@
 
 ---
 
-I build complex web applications with a focus on interactive UIs and AI integrations. Currently freelancing with a startup in Germany, working on data-heavy frontend features.
+I build complex web applications with a focus on interactive UIs and AI integrations. Currently freelancing with a startup, working on data-heavy frontend features.
 
 I speak four languages (UA/RU/EN/DE) but still find TypeScript the easiest to communicate in.
 
