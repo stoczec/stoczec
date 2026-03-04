@@ -12,15 +12,15 @@
 
 ---
 
-I turn complex ideas — entity clustering, knowledge graphs, interactive data visualization — into products people actually use. Currently freelancing with a startup, shipping AI-driven features: LLM integrations, graph-based UIs, and MCP tool orchestration.
+I build complex web applications with a focus on interactive UIs and AI integrations. Currently freelancing with a startup in Germany, working on data-heavy frontend features.
 
 I speak four languages (UA/RU/EN/DE) but still find TypeScript the easiest to communicate in.
 
 ### Now
 
-- Shipping AI-powered tools at a startup (graph visualization, entity clustering, MCP integrations)
+- Freelancing — building AI-integrated frontend for a startup
 - Maintaining [wortkarte](https://wortkarte.vercel.app) — social project helping people learn German
-- Exploring agent workflows, tool orchestration, and smart UIs
+- Interested in AI tooling, developer experience, and modern React patterns
 
 ### Projects
 
