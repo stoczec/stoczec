@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=header"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f6f8fa,100:d0d7de&height=120&section=header"/>
-  <img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=header"/>
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:2563EB&height=120&section=header&animation=twinkling"/>
 
 ## Hey, I'm Dmytro
 
@@ -64,14 +60,14 @@ I speak four languages (UA/RU/EN/DE) but still find JavaScript the easiest to co
 ### GitHub Stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=stoczec&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=stoczec&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img width="49%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=stoczec&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=stoczec&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=stoczec&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+  <img width="49%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=stoczec&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"/>
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=stoczec&theme=github-dark-blue&hide_border=true"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=stoczec&theme=default&hide_border=true"/>
-  <img width="49%" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=stoczec&theme=github-dark-blue&hide_border=true"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=stoczec&theme=github-dark-blue&hide_border=true"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=stoczec&theme=default&hide_border=true"/>
+  <img width="49%" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=stoczec&theme=github-dark-blue&hide_border=true"/>
 </picture>
 
 ---
@@ -82,8 +78,4 @@ I speak four languages (UA/RU/EN/DE) but still find JavaScript the easiest to co
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DmytroHerashchenko)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:herashchenko.dmytro@gmail.com)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f6f8fa,100:d0d7de&height=100&section=footer"/>
-  <img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer"/>
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:2563EB&height=100&section=footer&animation=twinkling"/>
